@@ -1,0 +1,65 @@
+@media only screen and (max-width: 600px) {
+    
+    .main-section .innner-div {
+    width: auto;
+}
+
+section.main-section h2 {
+    line-height: 60px;
+}
+
+section.main-section {
+    padding: 30px;
+    padding-top: 80px;
+}
+
+canvas#canvas {
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.heading-part {
+    width: auto;
+    padding: 30px;
+    margin: 0;
+}
+
+.wish-box {
+    width: auto;
+}
+
+.box-1 {
+    width: 75%;
+}
+
+.img-box {
+    width: 44%;
+    margin: 10px;
+}
+
+.heart-binding {
+    width: auto;
+    padding-bottom: 50px;
+}
+
+.img-box h2 {
+    font-size: 15px;
+    padding: 0 10px;
+}
+
+section.love-section {
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+
+.footer-content {
+    width: auto;
+}
+ section.wishing-section {
+    padding: 30px 0;
+}  
+footer.last-section {
+    padding: 50px;
+} 
+}
